@@ -25,9 +25,9 @@ mendemonstrasikan useEffect, debounce, dan integrasi API.
 
 ## Screenshot
 ![Kosong](https://github.com/indriamalia31/Tugaspraktek10/blob/main/assets/Kosong.jpeg)
-![Loading](screenshots/loading.png)
-![Hasil](screenshots/result.png)
-![Error](screenshots/result.png)
+![Loading](https://github.com/indriamalia31/Tugaspraktek10/blob/main/assets/Loading.jpeg)
+![Sukses](https://github.com/indriamalia31/Tugaspraktek10/blob/main/assets/Sukses.jpeg)
+![Error](https://github.com/indriamalia31/Tugaspraktek10/blob/main/assets/Error.jpeg)
 
 ## Author
 [Indri Amalia] - [243303621204] - Universitas Prima Indonesia
