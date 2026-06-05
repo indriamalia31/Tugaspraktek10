@@ -24,7 +24,7 @@ mendemonstrasikan useEffect, debounce, dan integrasi API.
 - Expo Snack: [https://snack.expo.dev/@indriamalia31/6d8e56]
 
 ## Screenshot
-![Kosong](screenshots/empty.png)
+![Kosong](https://github.com/indriamalia31/Tugaspraktek10/blob/main/assets/Kosong.jpeg)
 ![Loading](screenshots/loading.png)
 ![Hasil](screenshots/result.png)
 ![Error](screenshots/result.png)
